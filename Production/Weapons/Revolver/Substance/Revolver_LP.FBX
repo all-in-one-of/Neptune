@@ -11,10 +11,10 @@ FBXHeaderExtension:  {
 		Year: 2018
 		Month: 12
 		Day: 19
-		Hour: 16
-		Minute: 50
-		Second: 19
-		Millisecond: 751
+		Hour: 17
+		Minute: 12
+		Second: 40
+		Millisecond: 908
 	}
 	Creator: "FBX SDK/FBX Plugins version 2017.0.1"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -36,13 +36,13 @@ FBXHeaderExtension:  {
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "3ds Max"
 			P: "Original|ApplicationVersion", "KString", "", "", "2017"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "19/12/2018 16:50:19.750"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "19/12/2018 17:12:40.906"
 			P: "Original|FileName", "KString", "", "", "C:\Users\csimpson\Documents\Cyberpunk\Production\Weapons\Revolver\Substance\Revolver_LP.FBX"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "3ds Max"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "2017"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "19/12/2018 16:50:19.750"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "19/12/2018 17:12:40.906"
 			P: "Original|ApplicationActiveProject", "KString", "", "", "C:\Users\csimpson\Documents\3dsMax"
 			P: "Original|ApplicationNativeFile", "KString", "", "", "C:\Users\csimpson\Documents\Cyberpunk\Production\Weapons\Revolver\Revolver_SM.max"
 		}
@@ -79,7 +79,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2988691376, "", "Scene" {
+	Document: 1321001744, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -268,7 +268,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2623814128, "Geometry::", "Mesh" {
+	Geometry: 2847218512, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -545,7 +545,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623815760, "Geometry::", "Mesh" {
+	Geometry: 2847221776, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -661,7 +661,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623802160, "Geometry::", "Mesh" {
+	Geometry: 2847222320, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -900,7 +900,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623799440, "Geometry::", "Mesh" {
+	Geometry: 2847229392, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1126,7 +1126,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623828816, "Geometry::", "Mesh" {
+	Geometry: 2847230480, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1282,7 +1282,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623809232, "Geometry::", "Mesh" {
+	Geometry: 2847231568, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1390,7 +1390,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623783664, "Geometry::", "Mesh" {
+	Geometry: 2847232112, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1488,7 +1488,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623786384, "Geometry::", "Mesh" {
+	Geometry: 2847232656, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1590,7 +1590,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623787472, "Geometry::", "Mesh" {
+	Geometry: 2847245712, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1698,7 +1698,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623788016, "Geometry::", "Mesh" {
+	Geometry: 2847214160, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1796,7 +1796,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623794000, "Geometry::", "Mesh" {
+	Geometry: 2847240272, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -1895,7 +1895,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 2623795632, "Geometry::", "Mesh" {
+	Geometry: 2847223408, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -2005,7 +2005,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 1558429920, "Geometry::", "Mesh" {
+	Geometry: 2847224496, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -2174,7 +2174,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 1558414688, "Geometry::", "Mesh" {
+	Geometry: 2847233200, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -2317,7 +2317,7 @@ Objects:  {
 			}
 		}
 	}
-	Geometry: 1558432640, "Geometry::", "Mesh" {
+	Geometry: 2847237008, "Geometry::", "Mesh" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.341176470588235,0.882352941176471,0.341176470588235
 		}
@@ -2423,7 +2423,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2624872048, "Model::Bottom_LP", "Mesh" {
+	Model: 2617653664, "Model::Bottom_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2444,7 +2444,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721570208, "Model::Bullet_LP", "Mesh" {
+	Model: 2855940768, "Model::Bullet_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2452,13 +2452,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,0.452310562133789,1.31130218505859e-06
+			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,17.2657928466797,2.04624302568845e-06
 			P: "MaxHandle", "int", "Integer", "UH",409
 		}
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721572400, "Model::Clip_LP", "Mesh" {
+	Model: 2855938576, "Model::Clip_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2466,13 +2466,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,0.452310562133789,1.31130218505859e-06
+			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,17.2657928466797,2.04624302568845e-06
 			P: "MaxHandle", "int", "Integer", "UH",410
 		}
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721574592, "Model::Cylinder_LP", "Mesh" {
+	Model: 2855945152, "Model::Cylinder_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2480,13 +2480,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,0.452310562133789,1.31130218505859e-06
+			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,29.2364082336426,2.56949488175451e-06
 			P: "MaxHandle", "int", "Integer", "UH",411
 		}
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721546096, "Model::Barrel_LP", "Mesh" {
+	Model: 2855947344, "Model::Barrel_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2507,7 +2507,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721548288, "Model::Rail_LP", "Mesh" {
+	Model: 2855949536, "Model::Rail_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2521,7 +2521,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721581168, "Model::CylinderPivot_LP", "Mesh" {
+	Model: 2855953920, "Model::CylinderPivot_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2529,13 +2529,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,0.452310562133789,1.31130218505859e-06
+			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,29.2364082336426,2.56949488175451e-06
 			P: "MaxHandle", "int", "Integer", "UH",414
 		}
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1915959440, "Model::SmallSlide_LP", "Mesh" {
+	Model: 2855951728, "Model::SmallSlide_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2549,7 +2549,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1915950672, "Model::Slide_LP", "Mesh" {
+	Model: 2855956112, "Model::Slide_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2563,7 +2563,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1915930944, "Model::Hammer_LP", "Mesh" {
+	Model: 2855958304, "Model::Hammer_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2577,7 +2577,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1915935328, "Model::Sight_LP", "Mesh" {
+	Model: 2855960496, "Model::Sight_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2591,7 +2591,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1915941904, "Model::Trigger_LP", "Mesh" {
+	Model: 2622162400, "Model::Trigger_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2600,12 +2600,19 @@ Objects:  {
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,0.452310562133789,1.31130218505859e-06
+			P: "mr displacement use global settings", "Bool", "", "AU",1
+			P: "mr displacement view dependent", "Bool", "", "AU",1
+			P: "mr displacement method", "Integer", "", "AU",6,6,6
+			P: "mr displacement smoothing on", "Bool", "", "AU",1
+			P: "mr displacement edge length", "Number", "", "AU",2,2,2
+			P: "mr displacement max displace", "Number", "", "AU",20,20,20
+			P: "mr displacement parametric subdivision level", "Integer", "", "AU",5,5,5
 			P: "MaxHandle", "int", "Integer", "UH",419
 		}
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1915944096, "Model::Handle_LP", "Mesh" {
+	Model: 2622158016, "Model::Handle_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2619,7 +2626,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721472336, "Model::Back_LP", "Mesh" {
+	Model: 2622173360, "Model::Back_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2628,12 +2635,19 @@ Objects:  {
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
 			P: "Lcl Translation", "Lcl Translation", "", "A",19.8613662719727,0.452310562133789,1.31130218505859e-06
+			P: "mr displacement use global settings", "Bool", "", "AU",1
+			P: "mr displacement view dependent", "Bool", "", "AU",1
+			P: "mr displacement method", "Integer", "", "AU",6,6,6
+			P: "mr displacement smoothing on", "Bool", "", "AU",1
+			P: "mr displacement edge length", "Number", "", "AU",2,2,2
+			P: "mr displacement max displace", "Number", "", "AU",20,20,20
+			P: "mr displacement parametric subdivision level", "Integer", "", "AU",5,5,5
 			P: "MaxHandle", "int", "Integer", "UH",421
 		}
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Model: 1721507408, "Model::TopScrew_LP", "Mesh" {
+	Model: 2622177744, "Model::TopScrew_LP", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "PreRotation", "Vector3D", "Vector", "",-90,-0,0
@@ -2647,7 +2661,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2623106016, "Material::Revolver_MI", "" {
+	Material: 3150578272, "Material::Revolver_MI", "" {
 		Version: 102
 		ShadingModel: "phong"
 		MultiLayer: 0
@@ -2669,18 +2683,18 @@ Objects:  {
 			P: "Reflectivity", "double", "Number", "",0
 		}
 	}
-	CollectionExclusive: 2839190400, "DisplayLayer::Final", "DisplayLayer" {
+	CollectionExclusive: 2500220784, "DisplayLayer::Final", "DisplayLayer" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.894117647058823,0.83921568627451,0.6
 		}
 	}
-	CollectionExclusive: 2839187136, "DisplayLayer::HP", "DisplayLayer" {
+	CollectionExclusive: 2500214256, "DisplayLayer::HP", "DisplayLayer" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.882352941176471,0.341176470588235,0.56078431372549
 			P: "Show", "bool", "", "",0
 		}
 	}
-	CollectionExclusive: 2839189632, "DisplayLayer::LP", "DisplayLayer" {
+	CollectionExclusive: 2500219632, "DisplayLayer::LP", "DisplayLayer" {
 		Properties70:  {
 			P: "Color", "ColorRGB", "Color", "",0.882352941176471,0.776470588235294,0.341176470588235
 		}
@@ -2693,185 +2707,185 @@ Objects:  {
 Connections:  {
 	
 	;Model::Bottom_LP, Model::RootNode
-	C: "OO",2624872048,0
+	C: "OO",2617653664,0
 	
 	;Model::Bullet_LP, Model::RootNode
-	C: "OO",1721570208,0
+	C: "OO",2855940768,0
 	
 	;Model::Clip_LP, Model::RootNode
-	C: "OO",1721572400,0
+	C: "OO",2855938576,0
 	
 	;Model::Cylinder_LP, Model::RootNode
-	C: "OO",1721574592,0
+	C: "OO",2855945152,0
 	
 	;Model::Barrel_LP, Model::RootNode
-	C: "OO",1721546096,0
+	C: "OO",2855947344,0
 	
 	;Model::Rail_LP, Model::RootNode
-	C: "OO",1721548288,0
+	C: "OO",2855949536,0
 	
 	;Model::CylinderPivot_LP, Model::RootNode
-	C: "OO",1721581168,0
+	C: "OO",2855953920,0
 	
 	;Model::SmallSlide_LP, Model::RootNode
-	C: "OO",1915959440,0
+	C: "OO",2855951728,0
 	
 	;Model::Slide_LP, Model::RootNode
-	C: "OO",1915950672,0
+	C: "OO",2855956112,0
 	
 	;Model::Hammer_LP, Model::RootNode
-	C: "OO",1915930944,0
+	C: "OO",2855958304,0
 	
 	;Model::Sight_LP, Model::RootNode
-	C: "OO",1915935328,0
+	C: "OO",2855960496,0
 	
 	;Model::Trigger_LP, Model::RootNode
-	C: "OO",1915941904,0
+	C: "OO",2622162400,0
 	
 	;Model::Handle_LP, Model::RootNode
-	C: "OO",1915944096,0
+	C: "OO",2622158016,0
 	
 	;Model::Back_LP, Model::RootNode
-	C: "OO",1721472336,0
+	C: "OO",2622173360,0
 	
 	;Model::TopScrew_LP, Model::RootNode
-	C: "OO",1721507408,0
+	C: "OO",2622177744,0
 	
 	;AnimLayer::BaseLayer, AnimStack::Revolver_SM
-	C: "OO",2618955088,39505328
+	C: "OO",3076850880,2678369856
 	
 	;Geometry::, Model::Bottom_LP
-	C: "OO",2623814128,2624872048
+	C: "OO",2847218512,2617653664
 	
 	;Material::Revolver_MI, Model::Bottom_LP
-	C: "OO",2623106016,2624872048
+	C: "OO",3150578272,2617653664
 	
 	;Geometry::, Model::Bullet_LP
-	C: "OO",2623815760,1721570208
+	C: "OO",2847221776,2855940768
 	
 	;Material::Revolver_MI, Model::Bullet_LP
-	C: "OO",2623106016,1721570208
+	C: "OO",3150578272,2855940768
 	
 	;Geometry::, Model::Clip_LP
-	C: "OO",2623802160,1721572400
+	C: "OO",2847222320,2855938576
 	
 	;Material::Revolver_MI, Model::Clip_LP
-	C: "OO",2623106016,1721572400
+	C: "OO",3150578272,2855938576
 	
 	;Geometry::, Model::Cylinder_LP
-	C: "OO",2623799440,1721574592
+	C: "OO",2847229392,2855945152
 	
 	;Material::Revolver_MI, Model::Cylinder_LP
-	C: "OO",2623106016,1721574592
+	C: "OO",3150578272,2855945152
 	
 	;Geometry::, Model::Barrel_LP
-	C: "OO",2623828816,1721546096
+	C: "OO",2847230480,2855947344
 	
 	;Material::Revolver_MI, Model::Barrel_LP
-	C: "OO",2623106016,1721546096
+	C: "OO",3150578272,2855947344
 	
 	;Geometry::, Model::Rail_LP
-	C: "OO",2623809232,1721548288
+	C: "OO",2847231568,2855949536
 	
 	;Material::Revolver_MI, Model::Rail_LP
-	C: "OO",2623106016,1721548288
+	C: "OO",3150578272,2855949536
 	
 	;Geometry::, Model::CylinderPivot_LP
-	C: "OO",2623783664,1721581168
+	C: "OO",2847232112,2855953920
 	
 	;Material::Revolver_MI, Model::CylinderPivot_LP
-	C: "OO",2623106016,1721581168
+	C: "OO",3150578272,2855953920
 	
 	;Geometry::, Model::SmallSlide_LP
-	C: "OO",2623786384,1915959440
+	C: "OO",2847232656,2855951728
 	
 	;Material::Revolver_MI, Model::SmallSlide_LP
-	C: "OO",2623106016,1915959440
+	C: "OO",3150578272,2855951728
 	
 	;Geometry::, Model::Slide_LP
-	C: "OO",2623787472,1915950672
+	C: "OO",2847245712,2855956112
 	
 	;Material::Revolver_MI, Model::Slide_LP
-	C: "OO",2623106016,1915950672
+	C: "OO",3150578272,2855956112
 	
 	;Geometry::, Model::Hammer_LP
-	C: "OO",2623788016,1915930944
+	C: "OO",2847214160,2855958304
 	
 	;Material::Revolver_MI, Model::Hammer_LP
-	C: "OO",2623106016,1915930944
+	C: "OO",3150578272,2855958304
 	
 	;Geometry::, Model::Sight_LP
-	C: "OO",2623794000,1915935328
+	C: "OO",2847240272,2855960496
 	
 	;Material::Revolver_MI, Model::Sight_LP
-	C: "OO",2623106016,1915935328
+	C: "OO",3150578272,2855960496
 	
 	;Geometry::, Model::Trigger_LP
-	C: "OO",2623795632,1915941904
+	C: "OO",2847223408,2622162400
 	
 	;Material::Revolver_MI, Model::Trigger_LP
-	C: "OO",2623106016,1915941904
+	C: "OO",3150578272,2622162400
 	
 	;Geometry::, Model::Handle_LP
-	C: "OO",1558429920,1915944096
+	C: "OO",2847224496,2622158016
 	
 	;Material::Revolver_MI, Model::Handle_LP
-	C: "OO",2623106016,1915944096
+	C: "OO",3150578272,2622158016
 	
 	;Geometry::, Model::Back_LP
-	C: "OO",1558414688,1721472336
+	C: "OO",2847233200,2622173360
 	
 	;Material::Revolver_MI, Model::Back_LP
-	C: "OO",2623106016,1721472336
+	C: "OO",3150578272,2622173360
 	
 	;Geometry::, Model::TopScrew_LP
-	C: "OO",1558432640,1721507408
+	C: "OO",2847237008,2622177744
 	
 	;Material::Revolver_MI, Model::TopScrew_LP
-	C: "OO",2623106016,1721507408
+	C: "OO",3150578272,2622177744
 	
 	;Model::TopScrew_LP, DisplayLayer::LP
-	C: "OO",1721507408,2839189632
+	C: "OO",2622177744,2500219632
 	
 	;Model::Back_LP, DisplayLayer::LP
-	C: "OO",1721472336,2839189632
+	C: "OO",2622173360,2500219632
 	
 	;Model::Handle_LP, DisplayLayer::LP
-	C: "OO",1915944096,2839189632
+	C: "OO",2622158016,2500219632
 	
 	;Model::Trigger_LP, DisplayLayer::LP
-	C: "OO",1915941904,2839189632
+	C: "OO",2622162400,2500219632
 	
 	;Model::Sight_LP, DisplayLayer::LP
-	C: "OO",1915935328,2839189632
+	C: "OO",2855960496,2500219632
 	
 	;Model::Hammer_LP, DisplayLayer::LP
-	C: "OO",1915930944,2839189632
+	C: "OO",2855958304,2500219632
 	
 	;Model::Slide_LP, DisplayLayer::LP
-	C: "OO",1915950672,2839189632
+	C: "OO",2855956112,2500219632
 	
 	;Model::SmallSlide_LP, DisplayLayer::LP
-	C: "OO",1915959440,2839189632
+	C: "OO",2855951728,2500219632
 	
 	;Model::CylinderPivot_LP, DisplayLayer::LP
-	C: "OO",1721581168,2839189632
+	C: "OO",2855953920,2500219632
 	
 	;Model::Rail_LP, DisplayLayer::LP
-	C: "OO",1721548288,2839189632
+	C: "OO",2855949536,2500219632
 	
 	;Model::Barrel_LP, DisplayLayer::LP
-	C: "OO",1721546096,2839189632
+	C: "OO",2855947344,2500219632
 	
 	;Model::Cylinder_LP, DisplayLayer::LP
-	C: "OO",1721574592,2839189632
+	C: "OO",2855945152,2500219632
 	
 	;Model::Clip_LP, DisplayLayer::LP
-	C: "OO",1721572400,2839189632
+	C: "OO",2855938576,2500219632
 	
 	;Model::Bullet_LP, DisplayLayer::LP
-	C: "OO",1721570208,2839189632
+	C: "OO",2855940768,2500219632
 	
 	;Model::Bottom_LP, DisplayLayer::LP
-	C: "OO",2624872048,2839189632
+	C: "OO",2617653664,2500219632
 }
