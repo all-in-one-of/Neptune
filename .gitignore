@@ -25,6 +25,8 @@ desktop.ini
 */Intermediate/CachedAssetRegistry.bin
 */Saved/Crashes/
 
+*.tmp
+
 
 # Visual Studio 2015 user specific files
 .vs/
