@@ -14,10 +14,10 @@ desktop.ini
 */Binaries/*
 */HardwareSurvey/*
 */Build/*
-/Saved/Crashes/*
+*/Saved/Crashes/*
+
 *.log
 *.VC.db
-*/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 */Saved/Autosaves/PackageRestoreData.json
 */Intermediate/CachedAssetRegistry.bin
 */Saved/AutoScreenshot.png
@@ -102,14 +102,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 */DerivedDataCache/*
-*/LearnToDriveUE4/Saved/AutoScreenshot.png
-*/LearnToDriveUE4/Intermediate/ReimportCache/3688439234.bin
-*/LearnToDriveUE4/Intermediate/CachedAssetRegistry.bin
-*/LearnToDriveUE4/Saved/AutoScreenshot.png
-*/LearnToDriveUE4/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.bin
-LearnToDriveUE4/Intermediate/CachedAssetRegistry.bin
-LearnToDriveUE4/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
-LearnToDriveUE4/Saved/HardwareSurvey/dxdiag.txt
 
+# Substance Painter source files
 *.spp
