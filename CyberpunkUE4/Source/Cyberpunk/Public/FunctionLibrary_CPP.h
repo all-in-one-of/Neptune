@@ -3,6 +3,7 @@
 #pragma once
 
 #include "Runtime/Engine/Classes/Components/SkyLightComponent.h"
+
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "FunctionLibrary_CPP.generated.h"
@@ -17,5 +18,5 @@ class CYBERPUNK_API UFunctionLibrary_CPP : public UBlueprintFunctionLibrary
 
 
 	UFUNCTION(BlueprintCallable)
-	static void SetSkyLightCubemapAngle(USkyLightComponent* Target, float Angle);
+		static void SetSkyLightCubemapAngle(USkyLightComponent* Target, float Angle);
 };
