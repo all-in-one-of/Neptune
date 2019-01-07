@@ -9,3 +9,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/Blueprints/Tools/SplineBase_BP.SplineBase_BP
 /Game/Blueprints/Tools/SplineDecorator_BP.SplineDecorator_BP
 /Game/Blueprints/Tools/SplineMesh_BP.SplineMesh_BP
+/Script/Engine.SpotLight
