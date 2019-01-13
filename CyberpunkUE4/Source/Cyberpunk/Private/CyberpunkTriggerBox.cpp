@@ -34,6 +34,9 @@ ACyberpunkTriggerBox::ACyberpunkTriggerBox()
 	static ConstructorHelpers::FObjectFinder<UStaticMesh> CubeVisualAsset(TEXT("/Engine/BasicShapes/Cube.Cube")); // Find engine static mesh cube asset
 	if (CubeVisualAsset.Succeeded()) // If we found it
 		CubeMesh->SetStaticMesh(CubeVisualAsset.Object); // Then set it
+
+
+	//ATriggerBox::ATriggerBox();
 }
 
 void ACyberpunkTriggerBox::OnConstruction(const FTransform& Transform)
