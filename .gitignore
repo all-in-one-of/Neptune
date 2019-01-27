@@ -1,3 +1,5 @@
+/Production
+
 desktop.ini
 *_bak*
 *\.autosave
@@ -39,7 +41,7 @@ desktop.ini
 
 # Precompiled Headers
 *.gch
-*.pch
+*.pchsln
 
 # Compiled Dynamic libraries
 *.so
