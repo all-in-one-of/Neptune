@@ -10,7 +10,6 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/Art/Shaders/Masters/MasterInstances/Glass_MI.Glass_MI
 /Game/Blockout/BlockoutKit_BP.BlockoutKit_BP
 /Game/Blueprints/Tools/BlockingVolume_BP.BlockingVolume_BP
-/Script/Cyberpunk.CyberpunkTriggerBox
 /Script/Engine.PlayerStart
 /Script/Engine.PointLight
 /Script/Engine.PostProcessVolume
