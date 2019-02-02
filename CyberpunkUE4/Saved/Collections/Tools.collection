@@ -6,6 +6,9 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/Blockout/BlockoutKit_BP.BlockoutKit_BP
 /Game/Blueprints/Tools/Decal_BP.Decal_BP
 /Game/Blueprints/Tools/InstancedMeshManager_BP.InstancedMeshManager_BP
-/Game/Blueprints/Tools/Splines/SplineBase_BP.SplineBase_BP
-/Game/Blueprints/Tools/Splines/SplineDecorator_BP.SplineDecorator_BP
+/Game/Blueprints/Tools/Splines/Components/SplineCirclePrimitive_BPC.SplineCirclePrimitive_BPC
+/Game/Blueprints/Tools/Splines/Components/SplineInstanceDecorator_BPC.SplineInstanceDecorator_BPC
+/Game/Blueprints/Tools/Splines/Components/SplineMeshGenerator_BPC.SplineMeshGenerator_BPC
+/Game/Blueprints/Tools/Splines/Components/SplineModifier_BPC.SplineModifier_BPC
+/Game/Blueprints/Tools/Splines/SplineAbstractBase_BP.SplineAbstractBase_BP
 /Game/Blueprints/Tools/Splines/SplineMesh_BP.SplineMesh_BP
