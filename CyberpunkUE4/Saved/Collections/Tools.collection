@@ -15,3 +15,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/Blueprints/Tools/Splines/SplineAbstractBase_BP.SplineAbstractBase_BP
 /Game/Blueprints/Tools/Splines/SplineDecorator_BP.SplineDecorator_BP
 /Game/Blueprints/Tools/Splines/SplineMesh_BP.SplineMesh_BP
+/Game/Blueprints/Tools/Splines/SplineSingleBase_BP.SplineSingleBase_BP
